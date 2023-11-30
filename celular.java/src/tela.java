@@ -15,4 +15,4 @@ class Tela extends Processador {
     public void ajustarBrilho() {
         System.out.println(nome + ": Ajustando brilho...");
     }
-}
+}    // texte 
